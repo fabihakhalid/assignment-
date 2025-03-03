@@ -6,7 +6,7 @@ int main() {
 
     int matrix1[rows][cols], matrix2[rows][cols], sumMatrix[rows][cols];
 
-    cout << "Enter elements for the first matrix (2x2):\n";
+    cout << "Enter elements for the first matrix (2x2):\n"; 
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
             cout << "element - [" << i << "][" << j << "]: ";
