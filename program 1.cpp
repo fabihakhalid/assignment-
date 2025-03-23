@@ -9,6 +9,7 @@ int main(){
 		sum+=i*i;
 		i++;
 		
+		
 	}
 	cout<<"the result is "<<sum<<endl;
 	return sum;
